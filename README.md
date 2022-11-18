@@ -62,10 +62,10 @@
 </a>
 <!-- <a href="https://github.com/parthbansal05">
     <img align="top" width="49%" src="./.metrics/worldmap.svg" />
-</a> -->
+</a>
 <a href="https://github.com/parthbansal05">
     <img align="top" width="49%" src="./.metrics/detailed.svg" />
-</a>  
+</a> -->  
 
 
     
