@@ -27,7 +27,7 @@
     </p>
 </a>
 
-
+<!-- 
 
 
 <br>
@@ -55,12 +55,12 @@
 
 <!-- <a href="https://github.com/parthbansal05">
     <img align="top" width="50%" src="./.metrics/sponsors.svg" />
-</a> -->
+</a> --> -->
 
 [![@parthbansal's Holopin board](https://holopin.me/parthbansal)](https://holopin.io/@parthbansal)
-
+<!-- 
 <a href="https://github.com/parthbansal05">
-    <img align="top" width="49%" src="./.metrics/achievements.svg" />
+    <img align="top" width="49%" src="./.metrics/achievements.svg" /> -->
 </a>
 <!-- <a href="https://github.com/parthbansal05">
     <img align="top" width="49%" src="./.metrics/worldmap.svg" />
@@ -76,12 +76,12 @@
 
 
 <!-- websites and link -->
-<p align="center">
+<!-- <p align="center">
 <a href="https://parthbansaltheinnovator.site123.me/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Parth Bansal" height="20" width="20" />
 </a>
 <a href="https://www.linkedin.com/in/parthbansal05/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parthbansal05" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parthbansal05" height="20" width="20" /> -->
 </a>
 </p>
 </div>
